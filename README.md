@@ -1,1 +1,1 @@
-Your site is live at https://luckmeryt.github.io/konkursshum/
+Демо версия сайта: https://luckmeryt.github.io/konkursshum/
